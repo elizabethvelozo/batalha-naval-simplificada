@@ -20,5 +20,4 @@ Desenvolva um programa, utilizando a linguagem Python, que simule o jogo Batalha
 - Se o tiro for certeiro deverá aparecer a palavra “FOGO” e na posição do tiro ser exibida a letra “F”. Esse mesmo jogador continuará atirando até errar. Caso contrário, deverá aparecer a palavra “ÁGUA” e na posição do tiro ser exibido a letra “A”. Nesse caso, a vez de jogar passará para o outro jogador.
 - Os dois tabuleiros devem ficar sempre visíveis na tela. Vale ressaltar que, inicialmente, as frotas não devem aparecer nos tabuleiros, irão aparecer gradativamente à medida que os navios forem sendo atingidos.
 - O jogo é encerrado quando um jogador afundar todos os navios do seu oponente.
-
-    **ATENÇÃO:** para fins de teste, o programa deverá permitir tornar visível as frotas.
+> **ATENÇÃO:** para fins de teste, o programa deverá permitir tornar visível as frotas.
